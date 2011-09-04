@@ -1,7 +1,7 @@
 ---
 abstract: 'Pi as related by Abrahamic tradition.'
 author:
-  - 'Ashley Pond V · ashley.pond.v@gmail.com · L<http://pangyresoft.com>.'
+  - 'Ashley Pond V · ashley@cpan.org · L<http://pangyresoft.com>.'
 build_requires:
   ExtUtils::MakeMaker: 6.42
 configure_requires:
@@ -19,4 +19,4 @@ no_index:
     - inc
 requires:
   perl: 5.008003
-version: 7.0
+version: 7.7

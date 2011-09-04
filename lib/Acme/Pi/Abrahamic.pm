@@ -1,6 +1,6 @@
 package Acme::Pi::Abrahamic;
 use 5.008003;
-our $VERSION = '7.0';
+our $VERSION = '7.7';
 
 sub import {
     shift;
@@ -40,7 +40,7 @@ L<http://github.com/pangyre/p5-acme-pi-abrahamic>.
 
 =head1 Author
 
-Ashley Pond V E<middot> ashley.pond.v@gmail.com E<middot> L<http://pangyresoft.com>.
+Ashley Pond V E<middot> ashley@cpan.org E<middot> L<http://pangyresoft.com>.
 
 =head1 License
 

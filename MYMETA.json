@@ -1,7 +1,7 @@
 {
    "abstract" : "Pi as related by Abrahamic tradition.",
    "author" : [
-      "Ashley Pond V · ashley.pond.v@gmail.com · L<http://pangyresoft.com>."
+      "Ashley Pond V · ashley@cpan.org · L<http://pangyresoft.com>."
    ],
    "dynamic_config" : 0,
    "generated_by" : "ExtUtils::MakeMaker version 6.58, CPAN::Meta::Converter version 2.110930001",
@@ -37,5 +37,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "7.0"
+   "version" : "7.7"
 }
